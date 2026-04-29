@@ -16,7 +16,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
    Select Sketch > Create Sketch.
 
- ### STEP-2:  Select the Sketch Plane
+ ### STEP-2:  Select the Sketch PlanE
 
    Select the Front (XZ) Plane
 
